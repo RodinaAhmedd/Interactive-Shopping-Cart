@@ -21,9 +21,13 @@ Technologies:
 How It Works:
 
 1.User Welcome: Users are greeted and asked for their name, which is saved in localStorage.
+
 2.Product Display: Products are rendered dynamically using JavaScript.
+
 3.Cart Management: Users can add/remove products, undo the last action, or clear the cart.
+
 4.Local Storage: Cart items persist between page reloads.
+
 5.Countdown Offer: A 10-second timer triggers price doubling for all products when it ends.
 
 
