@@ -1,7 +1,7 @@
 # Interactive-Shopping-Cart
 Interactive Shopping Cart is a web-based interactive shopping cart application. Users can browse products, manage their cart, and track total prices. The system features a countdown offer, undo last action, and localStorage persistence, providing a realistic shopping experience.
 
-Features:
+## Features:
 
 - Dynamic display of products.
 - Add or remove products from the cart.
@@ -12,13 +12,13 @@ Features:
 - Persist username and cart items using localStorage.
 - Responsive and modern design with hover effects.
 
-Technologies:
+## Technologies:
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
 
-How It Works:
+## How It Works:
 
 1.User Welcome: Users are greeted and asked for their name, which is saved in localStorage.
 
